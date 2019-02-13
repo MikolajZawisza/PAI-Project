@@ -1,0 +1,64 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "4c2a3128819fef9548d6f0d38a5e291a",
+      "css": "calendar",
+      "code": 59397,
+      "src": "typicons"
+    },
+    {
+      "uid": "87d337fee4866c2c28f6082994ce0f41",
+      "css": "map",
+      "code": 59396,
+      "src": "typicons"
+    },
+    {
+      "uid": "44e04715aecbca7f266a17d5a7863c68",
+      "css": "plus",
+      "code": 59395,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2626e3a1bbcd90e45849af3b58a1d594",
+      "css": "trash",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "c6be5a58ee4e63a5ec399c2b0d15cf2c",
+      "css": "reply",
+      "code": 61714,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c9829449672245d22b3d43d7d1a7cc90",
+      "css": "grooveshark",
+      "code": 59393,
+      "src": "zocial"
+    },
+    {
+      "uid": "f8d887df13c5f95ede5fb0e2cdb042b1",
+      "css": "resize-horizontal-1",
+      "code": 59398,
+      "src": "elusive"
+    },
+    {
+      "uid": "06301c50d89b5d3e651bd07ebd6d7de7",
+      "css": "cancel",
+      "code": 59394,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "83a806d41893e8bc6fac601669c76cd2",
+      "css": "shop",
+      "code": 59445,
+      "src": "maki"
+    }
+  ]
+}

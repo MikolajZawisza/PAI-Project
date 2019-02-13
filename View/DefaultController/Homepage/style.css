@@ -1,0 +1,245 @@
+
+body {
+ background-image: url(../../../Resources/Homepage/backgroundpaper.jpg);
+ background-color: #cccccc;
+ background-position: center; /* Center the image */
+ background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#container
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rectangle
+{
+    width: 960px;
+    margin: 20px;
+}
+
+.square
+{
+    width: 50%;
+    float: left;
+}
+
+#logo
+{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    float: left;
+    width: 600px;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#zegar
+{
+    float: left;
+    font-size: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.login
+{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #006400;
+    float: left;
+    text-align: center;
+}
+.login:hover{
+    opacity: 1;
+    filter: alpha(opacity=0); /* For IE8 and earlier */
+    background: #005300;
+}
+
+.funnyzone {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #3095d3;
+    float: left;
+    text-align: center;
+}
+.funnyzone:hover
+{
+    opacity: 1;
+    filter: alpha(opacity=0); /* For IE8 and earlier */
+    background-color: #2085c2;
+}
+
+.signup
+{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #28af28 ;
+    float: left;
+    text-align: center;
+}
+.signup:hover
+{
+    opacity: 1;
+    filter: alpha(opacity=0); /* For IE8 and earlier */
+    background-color: #189e17 ;
+}
+
+.aboutme
+{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #ffc732;
+    float: left;
+    text-align: center;
+}
+.aboutme:hover{
+     opacity: 1;
+     filter: alpha(opacity=0); /* For IE8 and earlier */
+     background-color: #eeb621;
+ }
+
+.title4
+{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    margin: 10px;
+    width: 355px;
+    height: 142px;
+    background-color: #ee5a32;
+    float: left;
+}
+
+.title4:hover{
+    opacity: 1;
+    filter: alpha(opacity=0); /* For IE8 and earlier */
+    background-color: #ee5a32;
+}
+
+.title5
+{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    margin: 10px;
+    width: 420px;
+    height: 244px;
+    background-color: #666666;
+    text-align: justify;
+    padding: 30px;
+}
+
+.wind
+{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    background-color: #303030;
+    color: #ffffff;
+    //background-image: url(../../../Resources/Homepage/backgroundpaper.jpg);
+    background-size: cover;
+    margin: 10px;
+    width: 420px;
+    height: 244px;
+    text-align: justify;
+    padding: 30px;
+}
+
+.ig
+{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #000000;
+    float: left;
+}
+.ig:hover{
+    opacity: 1;
+    filter: alpha(opacity=0); /* For IE8 and earlier */
+    background-color: #111111;
+}
+
+
+.yt
+{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #d94348;
+    float: left;
+}
+.yt:hover{
+     opacity: 1;
+     filter: alpha(opacity=0); /* For IE8 and earlier */
+     background-color: #ea5459;
+ }
+
+.fb
+{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #4668b3;
+    float: left;
+}
+.fb:hover{
+    opacity: 1;
+    filter: alpha(opacity=0); /* For IE8 and earlier */
+    background-color: #5779c4;
+}
+.gplus
+{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #d95333;
+    float: left;
+    text-align: center;
+}
+.gplus:hover{
+    opacity: 1;
+    filter: alpha(opacity=0); /* For IE8 and earlier */
+    background-color: #ea6444;
+}
+.tw
+{
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #3095d3;
+    float: left;
+}
+.tw:hover{
+    opacity: 1;
+    filter: alpha(opacity=0); /* For IE8 and earlier */
+    background-color: #41a6e4;
+}
+
+.tilelink
+{
+    color: #ffffff;
+    text-decoration: none;
+}

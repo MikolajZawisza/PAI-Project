@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/View/SignupController/signup.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/View/DefaultController/Homepage/style.css</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/View/DefaultController/login.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/Model/User.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/Controller/UserController.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/Controller/AdminController.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/Routing.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/README.md</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/Database.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/Controller/SignupController.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/View/DefaultController/index.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/View/AdminController/adminmenu.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/Controller/DefaultController.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/index.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/Controller/DeleteController.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/Model/UserMapper.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/Parameters.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/Model/AdminMapper.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/Controller/AddController.php</file>
+            <file>file:/C:/xampp/htdocs/FoodProductBase/Controller/AppController.php</file>
+        </group>
+    </open-files>
+</project-private>
